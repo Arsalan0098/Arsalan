@@ -1,6 +1,4 @@
-Here is the updated README file with the additional instructions:
 
----
 
 # ProNote App
 
@@ -85,6 +83,4 @@ If you encounter any issues or have suggestions for improvement, please open an 
 ## License
 This project is licensed under the MIT License.
 
----
 
-Feel free to edit this as needed. If you have any specific sections or additional details you'd like included, let me know!

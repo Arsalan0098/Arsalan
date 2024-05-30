@@ -46,6 +46,11 @@ The ProNote App is a React Native application designed to provide a seamless not
    LOCALADDRESS=0.0.0.0 # Server address for Express
    PORT=3000
    ```
+5. **Create a `.env` file in the `root` folder with the following information:**
+   ```
+   EXPO_PUBLIC_PORT=3000
+   EXPO_PUBLIC_TIMEOUT=3000
+   ```
 
 ## Running the Application
 1. **Run the server:**

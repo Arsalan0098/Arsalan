@@ -2,10 +2,10 @@ Here is the updated README file with the additional instructions:
 
 ---
 
-# Arsalan App
+# ProNote App
 
 ## Introduction
-The Arsalan App is a React Native application designed to provide a seamless note-taking experience. Users can create, edit, organize, and search for notes, with a responsive design suitable for both mobile and desktop devices.
+The ProNote App is a React Native application designed to provide a seamless note-taking experience. Users can create, edit, organize, and search for notes, with a responsive design suitable for both mobile and desktop devices.
 
 ## Features
 - **Create Notes:** Add new notes with titles and content.

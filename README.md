@@ -29,12 +29,17 @@ The ProNote App is a React Native application designed to provide a seamless not
    ```bash
    npm install expo
    ```
-3. **Install dependencies:**
+3. **Install Expo CLI server side:**
+   ```bash
+   cd server
+   npm install expo
+   ```
+4. **Install dependencies:**
    ```bash
    npm install
    npm --prefix ./server install
    ```
-4. **Create a `.env` file in the `server` folder with the following information:**
+5. **Create a `.env` file in the `server` folder with the following information:**
    ```
    MYSALT=#Number for salting, default 10
    PRIVATEKEY=#secret key for JWT (JSON Web Token)
@@ -44,7 +49,7 @@ The ProNote App is a React Native application designed to provide a seamless not
    LOCALADDRESS=0.0.0.0 # Server address for Express
    PORT=3000
    ```
-5. **Create a `.env` file in the `root` folder with the following information:**
+6. **Create a `.env` file in the `root` folder with the following information:**
    ```
    EXPO_PUBLIC_PORT=3000
    EXPO_PUBLIC_TIMEOUT=3000
